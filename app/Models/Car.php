@@ -23,3 +23,4 @@ class Car extends Model
         return $this->hasOne(Sale::class);
     }
 }
+
